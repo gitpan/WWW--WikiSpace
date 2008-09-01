@@ -1,0 +1,10 @@
+Changes
+examples/example.pl
+lib/WWW/WikiSpace.pm
+Makefile
+Makefile.PL
+MANIFEST
+META.yml			Module meta-data (added by MakeMaker)
+pm_to_blib
+README
+t/WWW-WikiSpace.t
